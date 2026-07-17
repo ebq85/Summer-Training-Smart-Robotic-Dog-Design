@@ -10,7 +10,6 @@ https://www.tinkercad.com/things/eZIK7IiSyyB/edit
 ## Design Preview
 ![Initial Design](Task1.png)
 
-![Top View](Task1 (2).png)
 ## Design Specifications
 
 ### 1. Number of Joints
