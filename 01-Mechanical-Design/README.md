@@ -7,8 +7,9 @@
 
 **View the 3D Design:**
 https://www.tinkercad.com/things/eZIK7IiSyyB/edit
-## Task1.png
-## Task1 (2).png
+## Design Preview
+! Task1.png
+! Task1 (2).png
 ## Design Specifications
 
 ### 1. Number of Joints
