@@ -2,7 +2,7 @@
 
 This folder documents all tasks, activities, and learning outcomes related to the Artificial Intelligence and Robotics track during my summer training.
 
-## Task 1-Image Classification using Teachable Machine
+# Task 01-Image Classification using Teachable Machine
 ## Description
 
 In this task, I created an image classification model using **Teachable Machine** with two classes:
