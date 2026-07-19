@@ -28,11 +28,20 @@ After training the model, I tested its predictions using sample images to evalua
 - ![Google Colab Code](Task1.png)
 - ![Google Colab Code](Task11.png)
 
-## Resu
-lts
+## Results
 - Successfully trained a two-class image classification model.
 - Successfully executed the exported model in Google Colab.
 - Verified that the model correctly classified the test images.
   
 ## Status
 ✅ Completed
+## 📂 Task 01 Files
+
+The following files are associated with **Task 01 – Image Classification using Teachable Machine**:
+
+-  `Untitled2.ipynb` — Google Colab notebook containing the Python implementation.
+-  `Teachablemachine.png` — Teachable Machine project overview.
+-  `Task1.png` — Google Colab code (Part 1).
+-  `Task11.png` — Google Colab code (Part 2).
+-  `keras_model.h5` — Exported trained AI model.
+-  `labels.txt` — Class labels used by the trained model.
