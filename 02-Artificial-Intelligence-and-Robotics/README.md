@@ -25,7 +25,7 @@ After training the model, I tested its predictions using sample images to evalua
 6. Imported the model into Google Colab.
 7. Executed the generated Python code.
 8. Verified the classification results
-- ![Google Colab Code](/Task1.png)
+- ![Google Colab Code](Task1.png)
 - ![Google Colab Code](Task11.png)
 
 ## Resu
