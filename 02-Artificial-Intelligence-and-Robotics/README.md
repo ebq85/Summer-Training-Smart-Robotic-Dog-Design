@@ -9,7 +9,7 @@ In this task, I created an image classification model using **Teachable Machine*
 
 - 🌵 Cactus
 - 🌹 Flower
-  ![Initial Design]Teachable machine
+  !(Teachable machine)
   
 
 After training the model, I tested its predictions using sample images to evaluate its accuracy. The trained model was then exported and integrated into **Google Colab**, where the generated Python code was executed successfully for image classification.
