@@ -45,3 +45,6 @@ The following files are associated with **Task 01 – Image Classification using
 -  `Task11.png` — Google Colab code (Part 2).
 -  `keras_model.h5` — Exported trained AI model.
 -  `labels.txt` — Class labels used by the trained model.
+
+-  # Task 02
+-  
