@@ -46,5 +46,32 @@ The following files are associated with **Task 01 – Image Classification using
 -  `keras_model.h5` — Exported trained AI model.
 -  `labels.txt` — Class labels used by the trained model.
 
--  # Task 02
--  
+ # Task 02 -👁️ Face Detection with OpenCV
+
+Welcome to my second AI task! 🤖
+
+In this project, I built a simple face detection program using **OpenCV**. The program detects human faces in an image and highlights each face with a green rectangle.
+
+## 🚀 Tools
+- Python 🐍
+- OpenCV 👁️
+- Visual Studio Code 💻
+
+## 📁 Project Files
+- `face_detection.py` 
+- `Face.jpg`
+- `haarcascade_frontalface_default.xml` 
+- `Task2.png` 
+- `Task2 VS CODE.mp4` – video.
+
+## 📸 Preview
+
+![Task 2](Task2.png)
+
+## 💡 What I Learned
+- Working with OpenCV.
+- Detecting human faces in images.
+- Processing images using Python.
+- Building a simple Computer Vision application.
+
+⭐ Thanks for checking out my project!
