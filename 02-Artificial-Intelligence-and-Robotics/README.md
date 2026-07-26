@@ -66,12 +66,10 @@ In this project, I built a simple face detection program using **OpenCV**. The p
 
 ## 📸 Preview
 
-![Task 2](Task2.png)
+![Task2](Task2.png)
 
 ## 💡 What I Learned
 - Working with OpenCV.
 - Detecting human faces in images.
 - Processing images using Python.
-- Building a simple Computer Vision application.
-
-⭐ Thanks for checking out my project!
+- Building a simple Computer Vision application.!
