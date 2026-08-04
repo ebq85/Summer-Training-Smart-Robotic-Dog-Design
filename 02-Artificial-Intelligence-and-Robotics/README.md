@@ -73,3 +73,26 @@ In this project, I built a simple face detection program using **OpenCV**. The p
 - Detecting human faces in images.
 - Processing images using Python.
 - Building a simple Computer Vision application.!
+
+
+# Task 03- AI Voice Assistant Website🤖
+
+## Project Description
+
+For this task, I created a simple AI Voice Assistant website with a clean and modern design. The website allows users to interact using their voice by converting speech into text, generating a response, and then reading the response aloud. It also supports both Arabic 🇸🇦 and English 🇺🇸, making the experience more flexible and user-friendly.
+
+## Project Workflow🚀 
+1- Select the preferred language (Arabic or English).
+2- Click Start Recording and speak.
+3- The speech is converted into text.
+4- The assistant generates a suitable response.
+5- The response appears on the screen.
+6- The response is played back using Text-to-Speech.
+
+ ## Tools Used
+- Lovable AI
+- Speech Recognition
+- Text-to-Speech
+
+## Result
+The final website successfully demonstrates the complete workflow of an AI Voice Assistant in a simple and interactive way. It provides a smooth user experience with bilingual support, making voice interaction easy and enjoyable.
