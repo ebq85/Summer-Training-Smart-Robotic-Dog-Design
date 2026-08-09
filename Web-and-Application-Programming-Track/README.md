@@ -4,8 +4,8 @@ Projects and tasks completed during the Web and Application Programming Track.
 
 ##  Tasks 📌 
 ## Task 1
--  Smart Chatbot🤖
-A simple bilingual chatbot developed using HTML, CSS, JavaScript, and PHP.
+- Smart Chatbot🤖
+-A simple bilingual chatbot developed using HTML, CSS, JavaScript, and PHP.
 
 ### Technologies
 - HTML
@@ -13,9 +13,9 @@ A simple bilingual chatbot developed using HTML, CSS, JavaScript, and PHP.
 - JavaScript
 - PHP
 - XAMPP
-  
-![Task3](Task3)
 
+  - ![Task3](Task33.png)
+  
 ###  Features✨
 -  Chat interface
 - 🇸🇦 Arabic & English support
