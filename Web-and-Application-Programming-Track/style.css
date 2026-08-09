@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #101827, #1e2b48);
+    padding: 20px;
+}
+
+.chat-container {
+    width: 100%;
+    max-width: 500px;
+    height: 650px;
+    background: #202d48;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.35);
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-header {
+    background: #2c3c60;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: white;
+}
+
+.bot-icon {
+    width: 55px;
+    height: 55px;
+    background: #27c5c7;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+}
+
+.chat-header h1 {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.chat-header p {
+    font-size: 13px;
+    color: #cbd5e1;
+}
+
+.chat-box {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.message {
+    max-width: 80%;
+    padding: 13px 17px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    line-height: 1.7;
+    font-size: 15px;
+}
+
+.bot-message {
+    background: #2c3c60;
+    color: white;
+    margin-left: auto;
+}
+
+.user-message {
+    background: #27c5c7;
+    color: white;
+    margin-right: auto;
+}
+
+.input-area {
+    padding: 18px;
+    background: #263552;
+    display: flex;
+    gap: 8px;
+}
+
+#message-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 13px;
+    border-radius: 12px;
+    background: #354563;
+    color: white;
+    font-size: 14px;
+}
+
+#message-input::placeholder {
+    color: #b8c2d3;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    border-radius: 12px;
+    padding: 0 15px;
+    font-size: 14px;
+}
+
+#send-btn {
+    background: #27c5c7;
+    color: white;
+}
+
+#mic-btn {
+    width: 48px;
+    height: 48px;
+    background: #27c5c7;
+    font-size: 20px;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
