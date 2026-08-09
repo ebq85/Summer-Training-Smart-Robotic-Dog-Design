@@ -1,4 +1,4 @@
-# 🌐 Web and Application Programming Track
+# 🌐 Web and Application Programming 
 
 Projects and tasks completed during the Web and Application Programming Track.
 
