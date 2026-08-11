@@ -31,7 +31,7 @@ This personal website was designed to present my profile as an Industrial Engine
   ## 🖥️ Website Preview
 
 ### 🏠 Home
-![Home Page](images/home(2).png)
+![Home (2).png](Home (2).png)
 
 ### 🛠️ Skills & Projects
 ![Projects Page](my projects.png)
