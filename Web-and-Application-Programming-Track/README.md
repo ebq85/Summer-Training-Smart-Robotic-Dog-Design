@@ -34,25 +34,9 @@ This personal website was designed to present my profile as an Industrial Engine
 ![Home.png](Home.png)
 
 ### 🛠️ Skills & Projects
-![Projects Page](my projects.png)
+![Projects Page](aboutme.png)
 
-### 📩 Contact
-![Contact Page](images/contact.png)
-
-##  Projects🚀
-
-### Smart Robotic Dog
-A robotics project combining mechanical design, movement, motors, and smart technology.
-
-### Smart Chatbot
-A simple chatbot project developed using web technologies and AI concepts.
-
-### Data Analysis
-A project focused on organizing data, analyzing patterns, and generating useful insights.
-
-## Learning Outcome
-
-Through this project, I practiced building a personal website, organizing web files, designing a user interface, and publishing a project using GitHub.
+![Projects Page](myprojects.png)
 
 ## Created By
 
