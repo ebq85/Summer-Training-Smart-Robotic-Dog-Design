@@ -28,6 +28,17 @@ This personal website was designed to present my profile as an Industrial Engine
 - Projects
 - Contact
 
+  ## 🖥️ Website Preview
+
+### 🏠 Home
+![Home Page](images/home(2).png)
+
+### 🛠️ Skills & Projects
+![Projects Page](my projects.png)
+
+### 📩 Contact
+![Contact Page](images/contact.png)
+
 ##  Projects🚀
 
 ### Smart Robotic Dog
