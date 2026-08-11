@@ -1,57 +1,206 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>المساعد الصوتي 🤖</title>
+
+    <title>Ebtihal | Industrial Engineer</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <div class="chat-container">
+    <!-- Navigation -->
+    <header>
+        <nav class="navbar">
+            <h2 class="logo">Ebtihal.</h2>
 
-        <header class="chat-header">
-            <div class="bot-icon">🤖</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-            <div>
-                <h1>المساعد الصوتي</h1>
-                <p>اضغط على الميكروفون وابدأ الحديث</p>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p class="welcome">Hello, I'm</p>
+
+            <h1>Ebtihal</h1>
+
+            <h2>Industrial Engineering Student</h2>
+
+            <p class="description">
+                Creating smart solutions through engineering,
+                technology, and data.
+            </p>
+
+            <a href="#projects" class="btn">
+                Explore My Work
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section id="about" class="section">
+
+        <h2>About Me</h2>
+
+       <p>
+    I am an Industrial Engineering student passionate about
+    process improvement, data analytics, artificial intelligence,
+    and developing smart solutions to real-world problems.
+    I enjoy learning new technologies and using engineering
+    concepts to turn ideas into practical solutions.
+</p>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills" class="section">
+
+        <h2>My Skills</h2>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Industrial Engineering</h3>
+                <p>Process Improvement & Problem Solving</p>
             </div>
-        </header>
 
-
-        <main id="chat-box" class="chat-box">
-
-            <div class="message bot-message">
-                مرحباً! 👋<br>
-                أنا المساعد الصوتي، تحدث معي وسأحاول مساعدتك 🤍
+            <div class="card">
+                <h3>Data Analytics</h3>
+                <p>Data Analysis & Visualization</p>
             </div>
 
-        </main>
+            <div class="card">
+                <h3>Programming</h3>
+                <p>Python • HTML • CSS • JavaScript</p>
+            </div>
+
+            <div class="card">
+                <h3>Artificial Intelligence</h3>
+                <p>AI & Machine Learning Fundamentals</p>
+            </div>
+
+        </div>
+
+    </section>
 
 
-        <div class="input-area">
+    <!-- Projects -->
+  <section id="projects" class="section">
 
-            <input
-                type="text"
-                id="message-input"
-                placeholder="اكتب رسالتك هنا..."
-            >
+    <h2>My Projects</h2>
 
-            <button id="send-btn">إرسال</button>
+    <div class="cards">
 
-            <button id="mic-btn" title="تحدث">
-                🎤
-            </button>
+        <div class="card">
+
+            <h3>🤖 Smart Robotic Dog</h3>
+
+            <p>
+                A smart robotics project combining
+                mechanical design, motors, movement,
+                and intelligent technology.
+            </p>
+
+        </div>
+
+
+        <div class="card">
+
+            <h3>💬 Smart Chatbot</h3>
+
+            <p>
+                A simple chatbot developed using
+                HTML, CSS, JavaScript, and PHP
+                with a focus on smart interaction.
+            </p>
+
+        </div>
+
+
+        <div class="card">
+
+            <h3>📊 Data Analysis</h3>
+
+            <p>
+                A data analysis project focused on
+                organizing data, identifying patterns,
+                and generating useful insights.
+            </p>
+
+        </div>
+
+
+        <div class="card">
+
+            <h3>🏭 Industrial Engineering</h3>
+
+            <p>
+                Engineering projects focused on
+                process improvement, efficiency,
+                and problem solving.
+            </p>
 
         </div>
 
     </div>
 
+</section>
+
+            <div class="card">
+                <h3>Data Analysis</h3>
+                <p>
+                    Exploring data to discover useful insights
+                    and support better decisions.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="section contact">
+
+        <h2>Let's Connect</h2>
+
+        <p>
+            Thank you for visiting my website.
+            I'm always excited to learn, create, and explore new opportunities.
+        </p>
+
+        <button onclick="showMessage()">
+            Say Hello 👋
+        </button>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Ebtihal. All Rights Reserved.</p>
+    </footer>
+
 
     <script src="script.js"></script>
 
 </body>
+
 </html>
