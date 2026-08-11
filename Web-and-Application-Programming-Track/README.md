@@ -2,8 +2,55 @@
 
 Projects and tasks completed during the Web and Application Programming Track.
 
-##  Tasks 📌 
-## Task 1 Smart Chatbot🤖
+##  Tasks 📌
+## Task 1 🌷 Ebtihal | Personal Website
+
+Welcome to my personal website!
+
+This project was created as part of my Web and Application Programming training. 
+The website introduces my background, skills, interests, and projects in a simple and modern design.
+
+##  About the Website
+
+This personal website was designed to present my profile as an Industrial Engineering student interested in technology, data, and artificial intelligence.
+
+##  Technologies🛠️
+
+- HTML
+- CSS
+- JavaScript
+
+## Website Sections📂 
+
+- Home
+- About Me
+- Skills
+- Projects
+- Contact
+
+##  Projects🚀
+
+### Smart Robotic Dog
+A robotics project combining mechanical design, movement, motors, and smart technology.
+
+### Smart Chatbot
+A simple chatbot project developed using web technologies and AI concepts.
+
+### Data Analysis
+A project focused on organizing data, analyzing patterns, and generating useful insights.
+
+## Learning Outcome
+
+Through this project, I practiced building a personal website, organizing web files, designing a user interface, and publishing a project using GitHub.
+
+## Created By
+
+**Ebtihal**  
+Industrial Engineering Student
+
+
+## Task 3 Smart Chatbot🤖
+
 - A simple bilingual chatbot developed using HTML, CSS, JavaScript, and PHP.
 
 ### Technologies
