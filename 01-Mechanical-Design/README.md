@@ -66,9 +66,13 @@ This task gave me a chance to practice using Onshape and understand how to creat
 ### 🛠️ Tool Used
 
 * Onshape
+
+**View the 3D Design:**
 https://cad.onshape.com/documents/110fb6be40f9b4df88fd2374/w/95fd9625137c2da22a009264/e/f7dee29e50f9159601c07a89
 ![Design](Task2M.png)
-
+![Design](Task22M.png)
+ This is the link to my work: [Logo Design on Onshape](https://cad.onshape.com/documents/110fb6be40f9b4df88fd2374/w/95fd9625137c2da22a009264/e/f7dee29e50f9159601c07a89
+)
 ### ✅ Result
 
 I successfully completed the logo design and gained more experience with Onshape and basic mechanical design.
