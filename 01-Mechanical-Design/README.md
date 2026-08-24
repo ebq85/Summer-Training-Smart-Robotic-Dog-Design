@@ -54,3 +54,19 @@ Torque:
 
 **Result:**
 - Required Torque = **0.27 N·m**
+
+# Task 2: Logo Design
+
+For the second task in the Mechanical Track, I created a logo using **Onshape**.
+
+I started by opening a new project and making a simple sketch of the logo. After that, I used the different tools in Onshape to create the shape, adjust the dimensions, and add the details I needed. I also made some changes to the design until I was happy with the final result.
+
+This task gave me a chance to practice using Onshape and understand how to create a design step by step, starting from a simple sketch and developing it into a finished model.
+
+### 🛠️ Tool Used
+
+* Onshape
+
+### ✅ Result
+
+I successfully completed the logo design and gained more experience with Onshape and basic mechanical design.
