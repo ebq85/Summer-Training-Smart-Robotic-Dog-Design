@@ -73,11 +73,11 @@ This task gave me a chance to practice using Onshape and understand how to creat
 ![Design](Task22M.png)
 
  ## What I Learned📌:
-How to create and edit sketches in Onshape.
-How to use basic modeling and design tools.
-How to adjust dimensions and shapes accurately.
-How to develop a simple idea into a complete digital model.
-Improved my understanding of basic mechanical design.
+- How to create and edit sketches in Onshape.
+- How to use basic modeling and design tools.
+- How to adjust dimensions and shapes accurately.
+- How to develop a simple idea into a complete digital model.
+- Improved my understanding of basic mechanical design.
 
 ## Result
 
