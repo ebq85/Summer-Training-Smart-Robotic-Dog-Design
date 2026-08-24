@@ -63,16 +63,22 @@ I started by opening a new project and making a simple sketch of the logo. After
 
 This task gave me a chance to practice using Onshape and understand how to create a design step by step, starting from a simple sketch and developing it into a finished model.
 
-### 🛠️ Tool Used
+## 🛠️ Tool Used
 
 * Onshape
 
-**View the 3D Design:**
-https://cad.onshape.com/documents/110fb6be40f9b4df88fd2374/w/95fd9625137c2da22a009264/e/f7dee29e50f9159601c07a89
+
+ This is the link to my work: [Logo Design on Onshape](https://cad.onshape.com/documents/110fb6be40f9b4df88fd2374/w/95fd9625137c2da22a009264/e/f7dee29e50f9159601c07a89
 ![Design](Task2M.png)
 ![Design](Task22M.png)
- This is the link to my work: [Logo Design on Onshape](https://cad.onshape.com/documents/110fb6be40f9b4df88fd2374/w/95fd9625137c2da22a009264/e/f7dee29e50f9159601c07a89
-)
-### ✅ Result
+
+ ## What I Learned📌:
+How to create and edit sketches in Onshape.
+How to use basic modeling and design tools.
+How to adjust dimensions and shapes accurately.
+How to develop a simple idea into a complete digital model.
+Improved my understanding of basic mechanical design.
+
+## Result
 
 I successfully completed the logo design and gained more experience with Onshape and basic mechanical design.
