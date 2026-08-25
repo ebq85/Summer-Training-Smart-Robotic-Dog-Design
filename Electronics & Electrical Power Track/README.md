@@ -97,13 +97,14 @@ This project demonstrates how to control four DC motors using an Arduino Uno and
 ## 📌 Project Description
 
 The Arduino Uno is connected to two L293D motor drivers, with each driver controlling two DC motors. The motors are programmed to perform different movements automatically according to the programmed sequence.
+<img width="1388" height="874" alt="Task2E" src="https://github.com/user-attachments/assets/dbb5667f-b6b8-4db7-80a9-daa396b20398" />
+
 
 The movement sequence includes:
 
 *  Moving forward for 30 seconds
 *  Moving backward for 1 minute
-* <img width="1388" height="874" alt="Task2E" src="https://github.com/user-attachments/assets/70b8eb68-18bc-4f93-98f7-f3c041209041" />
- Turning right and left alternately for 1 minute
+* Turning right and left alternately for 1 minute
 
 This task helped me understand the basic connection between the Arduino, motor drivers, and DC motors, as well as how programming can be used to control robot movement.
 
