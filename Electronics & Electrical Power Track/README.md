@@ -52,7 +52,10 @@ https://github.com/user-attachments/assets/58ced596-a4d1-4703-a65a-fc418fe86851
 
 Next, I connected the four servo motors and tested them together. All four motors responded to the same commands and moved simultaneously from **0° → 180° → 0°**.
 
-🎥 [View Four-Servo Test](https://youtu.be/njvyu7ISZk0)
+
+
+https://github.com/user-attachments/assets/4db83406-0237-46f9-a64e-c3af44ce913f
+
 
 ### 4. Completed Version
 
