@@ -57,12 +57,6 @@ Next, I connected the four servo motors and tested them together. All four motor
 https://github.com/user-attachments/assets/4db83406-0237-46f9-a64e-c3af44ce913f
 
 
-### 4. Completed Version
-
-For the final version, I modified the program so that after completing the movement sequence, all four servos move to **90°** and stay there.
-
-🎥 [View Final Demonstration](https://youtu.be/lsQdQvgrjPw)
-
 ---
 
 ## ⚙️ How the System Works
@@ -75,8 +69,16 @@ The movement sequence is:
 
 The final position is **90°**, where all four servo motors remain stationary.
 
+
 ---
 
+##  Tools & Technologies
+
+* **Arduino Uno**
+* **C++ / Arduino IDE code**
+* **Tinkercad Circuits**
+
+---
 ## ✨ Main Features
 
 * Simultaneous control of four servo motors.
@@ -86,25 +88,5 @@ The final position is **90°**, where all four servo motors remain stationary.
 * Arduino-based control system.
 * Complete circuit simulation using Tinkercad.
 
----
 
-## 💻 Tools & Technologies
-
-* **Arduino Uno**
-* **C++ / Arduino IDE code**
-* **Tinkercad Circuits**
-
----
-
-## 🔗 Tinkercad Project
-
-The complete circuit and simulation can be viewed through the following link:
-
-🔗 [Open Tinkercad Project](https://www.tinkercad.com/things/ilEhkjcli5m-fantastic-maimu/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=NmC9zeDLann-G-kyKsJc3J_otkZwdw5-s96dP9OhPmU)
-
----
-
-## 👩🏻‍💻 Author
-
-**Ebtihal**
 
