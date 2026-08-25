@@ -89,4 +89,38 @@ The final position is **90°**, where all four servo motors remain stationary.
 * Complete circuit simulation using Tinkercad.
 
 
+# Task 2
+# 🤖 Arduino 4 DC Motors Control using L293D
+
+This project demonstrates how to control four DC motors using an Arduino Uno and two L293D motor driver ICs. The circuit was simulated using Tinkercad to understand how the Arduino can control the direction and movement of multiple motors.
+
+## 📌 Project Description
+
+The Arduino Uno is connected to two L293D motor drivers, with each driver controlling two DC motors. The motors are programmed to perform different movements automatically according to the programmed sequence.
+
+The movement sequence includes:
+
+*  Moving forward for 30 seconds
+*  Moving backward for 1 minute
+* <img width="1388" height="874" alt="Task2E" src="https://github.com/user-attachments/assets/70b8eb68-18bc-4f93-98f7-f3c041209041" />
+ Turning right and left alternately for 1 minute
+
+This task helped me understand the basic connection between the Arduino, motor drivers, and DC motors, as well as how programming can be used to control robot movement.
+
+## 🛠️ Components Used
+
+* Arduino Uno R3
+* 2 × L293D Motor Driver IC
+* 4 × DC Motors
+* Breadboard
+* Jumper Wires
+* External Power Supply
+
+## 💻 Simulation
+
+The circuit was designed and tested using Tinkercad Circuits. The simulation shows the connections between the Arduino, L293D motor drivers, and the four DC motors.
+
+## 🎯 What I Learned
+
+Through this task, I learned the basics of DC motor control, how the L293D motor driver works, and how Arduino can be programmed to control the movement of multiple motors in a specific sequence.
 
