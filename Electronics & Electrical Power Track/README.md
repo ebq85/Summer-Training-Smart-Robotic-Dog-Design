@@ -43,7 +43,10 @@ https://github.com/user-attachments/assets/f391db2b-7a19-4c25-b44f-f30e0ab65dfb
 
 After confirming that the Arduino was working, I tested the servo connection and programmed the motor to rotate between **0° and 180°**, then return to **0°**.
 
-🎥 [View Servo Test](https://youtu.be/Lh7-snFN5WI)
+
+
+https://github.com/user-attachments/assets/58ced596-a4d1-4703-a65a-fc418fe86851
+
 
 ### 3. Multiple Servo Control
 
