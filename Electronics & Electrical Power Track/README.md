@@ -27,15 +27,17 @@ The circuit was assembled and simulated using **Tinkercad**. The four servo moto
 
 **Circuit Preview**
 
-https://github.com/user-attachments/assets/11af6b62-7ec9-4d7d-9d58-774a48fa44f5
-
+-![Task1](Task1E.png)
 ## 🧪 Testing Process
 
 ### 1. Arduino Setup Test
 
 I started by checking the Arduino setup and running a simple test to make sure the board was functioning correctly before adding all the motors.
 
- [View Test Video](1.MP4)
+
+
+https://github.com/user-attachments/assets/f391db2b-7a19-4c25-b44f-f30e0ab65dfb
+
 
 ### 2. Initial Servo Test
 
