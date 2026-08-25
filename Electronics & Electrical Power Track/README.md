@@ -27,9 +27,7 @@ The circuit was assembled and simulated using **Tinkercad**. The four servo moto
 
 **Circuit Preview**
 
-*Add your project screenshot here.*
-
----
+-![Task1E](Task1E.png)
 
 ## 🧪 Testing Process
 
