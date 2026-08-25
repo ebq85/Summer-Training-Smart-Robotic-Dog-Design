@@ -121,6 +121,11 @@ This task helped me understand the basic connection between the Arduino, motor d
 
 The circuit was designed and tested using Tinkercad Circuits. The simulation shows the connections between the Arduino, L293D motor drivers, and the four DC motors.
 
+
+
+https://github.com/user-attachments/assets/82b4a9ed-b5b3-4af8-850c-ad658a8485dc
+
+
 ## 🎯 What I Learned
 
 Through this task, I learned the basics of DC motor control, how the L293D motor driver works, and how Arduino can be programmed to control the movement of multiple motors in a specific sequence.
